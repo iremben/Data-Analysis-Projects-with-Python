@@ -9,8 +9,6 @@ for i in range(1,num+1):
       sayac+=1
   if sayac==2:
     liste.append(i)
-
 print(liste)
 
-sdljkf
 
