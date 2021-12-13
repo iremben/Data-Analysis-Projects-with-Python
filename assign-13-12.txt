@@ -4,4 +4,4 @@ def letter_count(sentence):
     if my_dict.get(i)!=0:
       my_dict[i]=sentence.count(i)
   return my_dict
-letter_count('meraba')
+
